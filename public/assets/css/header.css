@@ -1,15 +1,15 @@
 #header {
-  background-color: #4fa527;
+  background-color: #f9f3e1;
 }
 
 .list-group-item {
-  background-color: #4fa527;
+  background-color:#f9f3e1 ;
   border: none;
-  color: #ffffff;
+  color: #3d3b3b;
 }
 
 .navbar-light .navbar-nav .nav-link {
-  color: #ffffff;
+  color: #090909;
 }
 .special {
   display: inline;
